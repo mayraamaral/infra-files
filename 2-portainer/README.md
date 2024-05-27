@@ -9,7 +9,7 @@ curl -L https://downloads.portainer.io/ce2-19/portainer-agent-stack.yml -o porta
 ```shell
 docker stack deploy -c portainer-agent-stack.yml portainer
 ```
-## 3. After creating network for NPM (Ngnix Proxy Manager), edit the ```yml``` file and insert the network created
+## 3. After creating network for NPM (Nginx Proxy Manager), edit the ```yml``` file and insert the network created
 ## 4. Restart the Portainer stack
 ```shell
 docker stack deploy -c portainer-agent-stack.yml portainer
