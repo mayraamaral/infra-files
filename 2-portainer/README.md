@@ -15,5 +15,5 @@ docker stack deploy -c portainer-agent-stack.yml portainer
 docker stack deploy -c portainer-agent-stack.yml portainer
 ```
 ## Credits
-[Portainer Docs](https://docs.portainer.io/start/install-ce/server/swarm/linux)
+[Portainer Docs](https://docs.portainer.io/start/install-ce/server/swarm/linux)  
 [Tutorial](https://www.youtube.com/watch?v=T_DMW3relvQ)
