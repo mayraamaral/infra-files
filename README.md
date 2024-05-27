@@ -1,2 +1,2 @@
 # infra-files
-config files i used while creating my own vps
+configs i used while creating my own vps
