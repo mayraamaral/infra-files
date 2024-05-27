@@ -6,4 +6,9 @@ configs i used while creating my own vps
 | ------- | ------------ | --------------- |
 | Portfolio | [mayra.dev](https://mayra.dev) | Angular v. 16 |
 | Blog | [blog.mayra.dev](https://blog.mayra.dev) | Wordpress |
-| Deploy system | - | Portainer, Github Actions and Hostinger VPS |
+| Deploy system | - | Docker Swarm, Portainer, Github Actions and Hostinger VPS |
+| Reverse proxy | - | Nginx Proxy Manager |
+| Firewall | - | Hostinger Firewall |
+| DNS | - | Cloudflare |
+| Domain | - | Google Domains |
+| SSL | - | Let's Encrypt |
